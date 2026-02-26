@@ -1,6 +1,6 @@
 ## Hi there, my name is Jeppe 👋
 
-I'm a trained Web Developer currently studying Computer Science (AP Degree in Computer Science).
+I'm a qualified Web Developer, currently studying Computer Science (AP Degree in Computer Science).
 
 - 🔭 I’m currently working on a 2D game
 - 🌱 I’m currently learning Unity
