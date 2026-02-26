@@ -22,7 +22,7 @@ I'm a trained Web Developer currently studying Computer Science (AP Degree in Co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/clickup" alt="clickup" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/davinciresolve" alt="davinciresolve" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/davinciresolve/FFFFFF" alt="davinciresolve" width="45" height="45"/>
 </p>
 
 <!--
