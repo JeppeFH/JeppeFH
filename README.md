@@ -2,7 +2,6 @@
 
 I'm a qualified Web Developer, currently studying Computer Science (AP Degree in Computer Science).
 
-- 🔭 I’m currently working on a 2D game
 - 🌱 I’m currently learning Unity
 - ⚡ Interested in C#, .NET, and full-stack development
 
